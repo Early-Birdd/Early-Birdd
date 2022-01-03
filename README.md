@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20EarlyBird%20&height=300&fontSize=50&animation=twinkling&fontColor=black&fontAlign=20)
+
 ## Hi there 👋
 
 ### 🌱 My goal is to be a good developer!
